@@ -1,2 +1,3 @@
-# Trade-platform
-Using CS architecture to realize e-commerce trading platform
+# 电商交易平台
+
+采用CS架构实现电商交易平台，客户端与服务器系统之间用 socket 进行通信。功能包括：用户登录，平台商品信息的搜索与展示，购物车管理，订单管理。
